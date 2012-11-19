@@ -16,4 +16,4 @@ It's a great tutorial for beginning programmers that have a basic understanding 
 
 Because it's very short (20 lines of code) yet does quite a bit, it's something that will pique the interest of beginners! 
 
-(Link to Tutorial when it's posted)
+[Link to Tutorial](http://blog.studentrnd.org/post/36041434495/tutorial-creating-a-reddit-browser-with-node-js-and)
