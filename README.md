@@ -2,7 +2,7 @@
 
 This is the example code for a SMS app that allows you to text a phone number and see a list of top posts on Reddit!
 
-Try texting something to (206) 456-6132 to test it out!
+Try texting something to (206) 456-6132 to test it out! You will probably have to text it twice, because it's hosted on Heroku's free tier (and won't respond to the first text in time for Twilio to send you a response). 
 
 ##Tutorial
 
