@@ -1,3 +1,5 @@
+This project has been updated to use new node modules and your Twilio auth information. 
+
 #Reddit Browser with Node.js and Twilio
 
 This is the example code for a SMS app that allows you to text a phone number and see a list of top posts on Reddit!
@@ -17,3 +19,5 @@ It's a great tutorial for beginning programmers that have a basic understanding 
 Because it's very short (20 lines of code) yet does quite a bit, it's something that will pique the interest of beginners! 
 
 [Link to Tutorial](http://blog.studentrnd.org/post/36041434495/tutorial-creating-a-reddit-browser-with-node-js-and)
+
+
